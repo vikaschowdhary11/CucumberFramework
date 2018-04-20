@@ -1,0 +1,35 @@
+[ {
+		"firstName":"Lakshay",
+		"lastName":"Sharma",
+		"age":35,
+		"emailAddress":"test@gmail.com",
+		"address":{
+					"streetAddress":"Shalimar Bagh",
+					"city":"Delhi",
+					"postCode":232323,
+					"state":"Delhi",	
+					"country":"Guinea"
+				  },
+		 "phoneNumber":{
+		 				"home":2323432343,
+		 				"mob":4332343234
+		 				}		  
+	},
+	{
+		"firstName" : "Virender",
+		"lastName" : "Signh",
+		"age":25,
+		"emailAddress":"test2@gmail.com",
+		"address":{
+					"streetAddress":"Jahangir Bagh",
+					"city":"Pune",
+					"postCode":22332323,
+					"state":"Pune",	
+					"country":"Guinea"
+				  },
+		 "phoneNumber":{
+		 				"home":56532343,
+		 				"mob":65443234
+		 				}		  
+	}
+]
